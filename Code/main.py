@@ -3,11 +3,10 @@ import cv2 as cv
 import numpy as np
 
 # defining path to image file
-path_to_img = 'Code/test_images/Cars/white_car.jpeg'
+path_to_img = 'Code/test_images/Cars/blue_car.jpeg'
 
 # reading image from specified path
 img = cv.imread(path_to_img)
-
 
 # dispalying image based on image size
 def show_img(IMG, msg):
@@ -52,7 +51,7 @@ def applying_mask(h, color, display):
     hsv = cv.cvtColor(img, cv.COLOR_BGR2HSV)
     mask = cv.inRange(hsv, lower, upper)
     if (display):
-        show_img(mask, color + 'Mask')
+        show_img(mask, color + ' Mask')
 
     # cropping image
     centre = (img.shape[1] // 2, img.shape[0] // 2)
