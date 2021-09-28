@@ -49,31 +49,31 @@ Windows will pop-up with resultant images. (Press **esc** to view next image).
 
 ## Illustrations
 ### Blue Car
-<p>
+<p align="center">
   <img src="ReadMe Images/Blue Car/Original Image.png" width=48% title="Original Image">
   <img src="ReadMe Images/Blue Car/Blue Mask.png" width=48% title="Blue Mask Of Original Image">
 </p>
-<p>
-  <img src="ReadMe Images/Blue Car/Red Mask.png" width=33% title="Red Mask Of Original Image">
-  <img src="ReadMe Images/Blue Car/Green Mask.png" width=33% title="Blue Mask Of Original Image">
-  <img src="ReadMe Images/Blue Car/White Mask.png" width=33% title="Blue Mask Of Original Image">
+<p align="center">
+  <img src="ReadMe Images/Blue Car/Red Mask.png" width=32% title="Red Mask Of Original Image">
+  <img src="ReadMe Images/Blue Car/Green Mask.png" width=32% title="Blue Mask Of Original Image">
+  <img src="ReadMe Images/Blue Car/White Mask.png" width=32% title="Blue Mask Of Original Image">
 </p>
 <p align="center">
-   <img src="ReadMe Images/Blue Car/result.png" width=50% title="Output">
+   <img src="ReadMe Images/Blue Car/result.png" width=96% title="Output">
 </p>
 
 ### White Car
-<p>
+<p align="center">
   <img src="ReadMe Images/White Car/Original Image.png" width=48% title="Original Image">
   <img src="ReadMe Images/White Car/White Mask.png" width=48% title="Blue Mask Of Original Image">
 </p>
-<p>
-  <img src="ReadMe Images/White Car/Red Mask.png" width=33% title="Red Mask Of Original Image">
-  <img src="ReadMe Images/White Car/Green Mask.png" width=33% title="Blue Mask Of Original Image">
-  <img src="ReadMe Images/White Car/Blue Mask.png" width=33% title="Blue Mask Of Original Image">
+<p align="center">
+  <img src="ReadMe Images/White Car/Red Mask.png" width=32% title="Red Mask Of Original Image">
+  <img src="ReadMe Images/White Car/Green Mask.png" width=32% title="Blue Mask Of Original Image">
+  <img src="ReadMe Images/White Car/Blue Mask.png" width=32% title="Blue Mask Of Original Image">
 </p>
 <p align="center">
-   <img src="ReadMe Images/White Car/result.png" width=50% title="Output">
+   <img src="ReadMe Images/White Car/result.png" width=96% title="Output">
 </p>
 
 ## Project status
