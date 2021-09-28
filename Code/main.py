@@ -3,7 +3,7 @@ import cv2 as cv
 import numpy as np
 
 # defining path to image file
-path_to_img = 'Code/test_images/Cars/white_car.jpeg'
+path_to_img = 'test_images/Cars/white_car.jpeg'
 
 # reading image from specified path
 img = cv.imread(path_to_img)
